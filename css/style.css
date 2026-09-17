@@ -34,7 +34,7 @@ header img{
 }
 
 h1{
-    font-size: 80px;
+    font-size: 65px;
     font-family: "Unbounded", sans-serif;
     text-align: center;
     margin-top: 60px;
@@ -64,7 +64,7 @@ a{
     display: block;
     text-align: center;
     line-height: 66px;
-   border-radius: 20%;
+   border-radius: 50px;
     margin: 40px auto
 }
 a:hover{
